@@ -2,5 +2,6 @@
 
 > Integrantes de TRAMVET
 
-> Martin Aguilar
-> Ulises Ferrusca
+- Martin Aguilar
+- Fernanda Sanchez
+- Ulises Ferrusca
