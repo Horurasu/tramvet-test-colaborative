@@ -1,6 +1,8 @@
 # TRAMVET SOFTWARE TEAM
 
-> Integrantes de TRAMVET
+- PRUEBA DEL USO DE FORKS EN EL WHORKSHOP DTI
+
+> Integrantes de SOFTWARE TRAMVET
 
 - Martin Aguilar
 - Fernanda Sanchez
