@@ -4,9 +4,9 @@
 
 > Integrantes de SOFTWARE TRAMVET
 
-- Martin Aguilar
-- Fernanda Sanchez
-- Ulises Ferrusca
+- Martin Joaquin Aguilar Muñoz
+- Maria Fernanda Sanchez Aguilar
+- Ulises Ferrusca Jiménez
 -
 -
 -
