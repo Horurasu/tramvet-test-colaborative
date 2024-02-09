@@ -11,7 +11,7 @@
 - Saúl Alejandro Dorantes Díaz
 - Samantha Vianney Almanza Bocanegra
 - Fabiola Michelle López Olvera
--
+- Jacobo Abraham Durán Muñoz
 -
 -
 -
