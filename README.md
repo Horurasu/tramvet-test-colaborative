@@ -10,7 +10,7 @@
 - Marcos Anibal Gonzalez Estrada
 - Saúl Alejandro Dorantes Díaz
 - Samantha Vianney Almanza Bocanegra
--
+- Fabiola Michelle López Olvera
 -
 -
 -
