@@ -9,7 +9,7 @@
 - Ulises Ferrusca Jiménez
 - Marcos Anibal Gonzalez Estrada
 -
--
+- Samantha Vianney Almanza Bocanegra
 -
 -
 -
