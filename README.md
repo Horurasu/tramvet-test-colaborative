@@ -12,7 +12,7 @@
 - Samantha Vianney Almanza Bocanegra
 - Fabiola Michelle López Olvera
 - Jacobo Abraham Durán Muñoz
--
+- Jorge Luis Melchor Rodriguez
 -
 -
 -
