@@ -13,7 +13,7 @@
 - Fabiola Michelle López Olvera
 - Jacobo Abraham Durán Muñoz
 -
--
+- Julio Cesar Gómez ELigio
 -
 -
 -
