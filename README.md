@@ -4,21 +4,21 @@
 
 > Integrantes de SOFTWARE TRAMVET
 
-- Martin Joaquin Aguilar Muñoz
-- Maria Fernanda Sanchez Aguilar
-- Ulises Ferrusca Jiménez
-- Marcos Anibal Gonzalez Estrada
-- Saúl Alejandro Dorantes Díaz
-- Samantha Vianney Almanza Bocanegra
-- Fabiola Michelle López Olvera
-- Jacobo Abraham Durán Muñoz
-- Jorge Luis Melchor Rodriguez
-- Julio Cesar Gómez ELigio
-- Adrián Dolores Sánchez Ríos 
--
-- Josafat Vargas Sánchez 
--
--
--
+1- Martin Joaquin Aguilar Muñoz
+2- Maria Fernanda Sanchez Aguilar
+3- Ulises Ferrusca Jiménez
+4- Marcos Anibal Gonzalez Estrada
+5- Saúl Alejandro Dorantes Díaz
+6- Samantha Vianney Almanza Bocanegra
+7- Fabiola Michelle López Olvera
+8- Jacobo Abraham Durán Muñoz
+9- Jorge Luis Melchor Rodriguez
+10- Julio Cesar Gómez ELigio
+11- Adrián Dolores Sánchez Ríos 
+12- Oscar Gael Mayen Tello
+13- Josafat Vargas Sánchez 
+14-
+15-
+16-
 
 
