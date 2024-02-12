@@ -15,7 +15,7 @@
 - Jorge Luis Melchor Rodriguez
 - Julio Cesar Gómez ELigio
 - Adrián Dolores Sánchez Ríos 
--
+- Oscar Gael Mayen Tello
 -
 -
 -
