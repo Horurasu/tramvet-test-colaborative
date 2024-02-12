@@ -16,7 +16,7 @@
 - Julio Cesar Gómez ELigio
 - Adrián Dolores Sánchez Ríos 
 - Oscar Gael Mayen Tello
--
+- Jorge Luis Medellin Martinez
 -
 -
 -
