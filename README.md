@@ -18,7 +18,7 @@
 - Oscar Gael Mayen Tello
 - Josafat Vargas Sánchez
 - Jorge Luis Medellin Martinez
-- 
+- Sergio Rangel Vargas
 -
 -
 -
