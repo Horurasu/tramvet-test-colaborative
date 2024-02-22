@@ -19,7 +19,7 @@
 - Josafat Vargas Sánchez
 - Jorge Luis Medellin Martinez
 - Sergio Rangel Vargas
--
+- Paola Carranza Simon
 -
 -
 
